@@ -1,5 +1,0 @@
-geopy
-numpy
-networkx
-gurobipy
-scipy
