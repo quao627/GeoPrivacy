@@ -1,0 +1,23 @@
+Metadata-Version: 2.1
+Name: GeoPrivacy
+Version: 0.0.1
+Summary: A python package for implementing geo-indistinguishability privacy mechanisms
+Home-page: https://github.com/quao627/GeoPrivacy
+Author: Ao Qu
+Author-email: ao.qu@vanderbilt.edu
+License: MIT
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# GeoPrivacy
+
+This is a python package for implementing geo-indistinguishability privacy mechanism. The methods can be applied to various location privacy tasks. So far, we implemented two privacy mechanisms for the sporadic case as described in the paper **[Geo-indistinguishability: A Principled Approach to Location Privacy](https://hal.inria.fr/hal-01114241/document)**.
+In the exemple notebook, we demonstrated the mechanisms using NYC taxi trip data for sporadic case.
+
+## Example Usage
+
+
