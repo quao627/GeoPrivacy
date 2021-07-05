@@ -9,8 +9,6 @@ Please run the following command in terminal to install the package and other de
 $ pip install GeoPrivacy==0.0.2
 ```
 
-pip install GeoPrivacy==0.0.2
-
 ## Example Usage
 To generate a random laplace noise and add it to a location:
 ```python
