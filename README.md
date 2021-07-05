@@ -6,10 +6,10 @@ In the exemple notebook, we demonstrated the mechanisms using NYC taxi trip data
 ## Installation
 Please run the following command in terminal to install the package and other dependencies.
 ```
-$ pip install GeoPrivacy==0.0.1
+$ pip install GeoPrivacy==0.0.2
 ```
 
-pip install GeoPrivacy==0.0.1
+pip install GeoPrivacy==0.0.2
 
 ## Example Usage
 To generate a random laplace noise and add it to a location:
